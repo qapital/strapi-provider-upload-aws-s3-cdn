@@ -1,0 +1,30 @@
+{
+  "name": "@qapital/strapi-provider-upload-aws-s3-cdn",
+  "version": "4.6.1",
+  "description": "AWS S3 provider for strapi upload",
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "strapi",
+    "cdn"
+  ],
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "aws-sdk": "2.1287.0",
+    "lodash": "4.17.21"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+    "strapi": {
+    "kind": "plugin"
+  }
+}
