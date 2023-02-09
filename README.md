@@ -1,5 +1,7 @@
 # @qapital/strapi-provider-upload-aws-s3-cdn
 
+---
+
 ## This is a mofified fork!
 
 This plugin is a fork of (https://github.com/strapi/strapi/tree/v4.6.1/packages/providers/upload-aws-s3)[@strapi/provider-upload-aws-s3]
@@ -11,6 +13,8 @@ Changes made:
 References:
 - https://github.com/maxmastalerz/strapi-provider-upload-aws-s3-cloudfront
 - https://github.com/strapi/strapi/issues/5868
+
+---
 
 ## Resources
 
