@@ -4,7 +4,7 @@
 
 ## This is a modified fork!
 
-This plugin is a fork of (https://github.com/strapi/strapi/tree/v4.6.1/packages/providers/upload-aws-s3)[@strapi/provider-upload-aws-s3]
+This plugin is a fork of [@strapi/provider-upload-aws-s3](https://github.com/strapi/strapi/tree/v4.6.1/packages/providers/upload-aws-s3) v4.6.1
 
 Changes made:
 - Added support for custom CDN domain name
