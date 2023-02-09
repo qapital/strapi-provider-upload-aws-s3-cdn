@@ -2,7 +2,7 @@
 
 ---
 
-## This is a mofified fork!
+## This is a modified fork!
 
 This plugin is a fork of (https://github.com/strapi/strapi/tree/v4.6.1/packages/providers/upload-aws-s3)[@strapi/provider-upload-aws-s3]
 
